@@ -7,7 +7,10 @@
 # ]
 
 def sandwich_request(ingredients, order) 
-if 
+if sandwich_request()
+  puts true 
+elsif 
+puts false 
 end
 
 # example city_info hash
