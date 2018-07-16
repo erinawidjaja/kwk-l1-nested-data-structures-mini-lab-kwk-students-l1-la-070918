@@ -6,12 +6,12 @@
 #     ["mayo", "mustard", "tabasco"]
 # ]
 
-def sandwich_request(ingredients, order) 
-if sandwich_request(ingredients, ["rye", "sourdough", "baguette"])
-  puts true 
-elsif 
-  puts false 
-end
+# def sandwich_request(ingredients, order) 
+# if sandwich_request(ingredients, ["rye", "sourdough", "baguette"])
+#   puts true 
+# elsif 
+#   puts false 
+# end
 
 # example city_info hash
 cities = {
