@@ -61,3 +61,4 @@ cities = {
    }
  }
  end
+ puts cities["new_york"]
