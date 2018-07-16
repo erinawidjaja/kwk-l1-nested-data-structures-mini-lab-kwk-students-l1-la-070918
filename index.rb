@@ -7,7 +7,7 @@
 # ]
 
 def sandwich_request(ingredients, order) 
-if sandwich_request(ingredients)
+if sandwich_request(ingredients, ["rye", "sourdough", "baguette"])
   puts true 
 elsif 
 puts false 
